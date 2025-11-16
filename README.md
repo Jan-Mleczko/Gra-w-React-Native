@@ -4,7 +4,7 @@ Jan Mleczko, listopad 2025 r. **Zadanie rekrutacyjne na praktyki zawodowe w Soft
 
 Aplikacja realizuje wariant klasycznej gry w kości zwanej czasami kościanym pokerem. W tę grę zwykle gra kilku graczy, ale każdy z nich niezależnie od pozostałych zdobywa punkty, a zwycięzcą zostaje gracz, który ostatecznie będzie miał ich najwięcej. Wobec tego gra mogła zostać łatwo zamieniona w jednoosobową grę mobilną, gdzie celem jedynego gracza jest osiągnięcie jak największej liczby punktów.
 
-Gra była testowana na fizycznym smartfonie Huawei Y5 2015 z systemem Android za pomocą aplikacji Expo Go.
+Gra była testowana na fizycznym smartfonie Huawei Y5 2018 z systemem Android za pomocą aplikacji Expo Go.
 
 ## Zdjęcia
 

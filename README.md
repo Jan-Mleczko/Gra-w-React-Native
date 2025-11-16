@@ -18,7 +18,7 @@ Gra była testowana na fizycznym smartfonie Huawei Y5 2018 z systemem Android za
 
 Cała rozgrywka składa się z 14 tur. Na początku gracz ma 0 punktów, za każdą turę może dostać punkty lub czasami je stracić, a celem gracza jest zakończenie gry z jak najwiekszą liczbą punktów.
 
-Tura rozpoczyna się (wirtualnym) rzutem pięcioma sześciennymi kośćmi do gry. Każdy rzut pięcioma koścmi można rozpatrywać jako jeden z 14 istniejących w grze układów:
+Tura rozpoczyna się (wirtualnym) rzutem pięcioma sześciennymi kośćmi do gry. Każdy rzut pięcioma koścmi można rozpatrywać jako dowolnie wybrany z 14 istniejących w grze układów:
 
 - **Jedynki** - za ten układ gracz otrzymuje tyle punktów, ile wynosi suma oczek na kościach, na których wyrzucono 1 odjąć 3, czyli aby nie stracić punktów na tym układzie, trzeba wyrzucić 1 na conajmniej 3 kościach.
 - **Dwójki** - za ten układ gracz otrzymuje tyle punktów, ile wynosi suma oczek na kościach, na których wyrzucono 2 odjąć 6, czyli aby nie stracić punktów na tym układzie, trzeba wyrzucić 2 na conajmniej 3 kościach.

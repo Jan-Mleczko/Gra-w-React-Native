@@ -20,8 +20,8 @@ Cała rozgrywka składa się z 14 tur. Na początku gracz ma 0 punktów, za każ
 
 Tura rozpoczyna się (wirtualnym) rzutem pięcioma sześciennymi kośćmi do gry. Każdy rzut pięcioma koścmi można rozpatrywać jako dowolnie wybrany z 14 istniejących w grze układów:
 
-- **Jedynki** - za ten układ gracz otrzymuje tyle punktów, ile wynosi suma oczek na kościach, na których wyrzucono 1 odjąć 3, czyli aby nie stracić punktów na tym układzie, trzeba wyrzucić 1 na conajmniej 3 kościach.
-- **Dwójki** - za ten układ gracz otrzymuje tyle punktów, ile wynosi suma oczek na kościach, na których wyrzucono 2 odjąć 6, czyli aby nie stracić punktów na tym układzie, trzeba wyrzucić 2 na conajmniej 3 kościach.
+- **Jedynki** - za ten układ gracz otrzymuje tyle punktów, ile wynosi suma oczek na kościach, na których wyrzucono 1 oczko, odjąć 3 punkty, czyli aby nie stracić punktów na tym układzie, trzeba wyrzucić 1 na conajmniej 3 kościach.
+- **Dwójki** - za ten układ gracz otrzymuje tyle punktów, ile wynosi suma oczek na kościach, na których wyrzucono 2 oczka odjąć 6 punktów, czyli aby nie stracić punktów na tym układzie, trzeba wyrzucić 2 na conajmniej 3 kościach.
 - Analogicznie do jedynek i dwójek **trójki**, **czwórki**, **piątki** i **szóstki**.
 - **Para** - jeśli na dwóch z kości wypadła taka sama liczba oczek, gracz otrzymuje tyle punktów, ile wynosi suma oczek na tych kościach. Jeśli na wszystkich kościach wypadły różne liczby oczek, gracz otrzymuje zero punktów.
 - **Dwie pary** - tak jak para, ale wymagane są dwie pary kości z takimi samymi wyrzuconymi liczbami oczek, a do punktacji doliczana jest suma oczek z wszystkich czterech kości tworzących dwie pary. Jeśli nie ma dwóch par, liczba punktów za ten układ jest równa 0.
